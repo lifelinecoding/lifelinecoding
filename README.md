@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lifelinecoding
+- 👋 Hi, I’m Aditya Patel
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learnering Web development.
 
