@@ -20,6 +20,7 @@ I believe in **learning by building**, and I constantly work on projects that he
 - JavaScript (ES6+)
 - React.js
 - Bootstrap
+- Tailwind CSS
 
 ### ⚙️ Tools & Libraries
 - React Router
