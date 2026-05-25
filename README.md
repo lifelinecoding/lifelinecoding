@@ -39,7 +39,7 @@ I believe in **learning by building**, and I constantly work on projects that he
          alt="Aditya's Top Languages" />
 </div>
 
-<<br/>
+<br/>
 
 <div align="center">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifelinecoding&theme=dracula" 
