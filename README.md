@@ -22,7 +22,7 @@ I believe in **learning by building**, and I constantly work on projects that he
 
 ## Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patel-6ab7002a1/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patel-6ab7002a1/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/the.professor.codes/)
 - [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](apatel89329@gmail.com)
 
