@@ -33,16 +33,16 @@ I believe in **learning by building**, and I constantly work on projects that he
 
 ## Github Activity & Stats
 <div align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lifelinecoding&theme=dracula" 
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lifelinecoding&theme=2077" 
          alt="Aditya's GitHub Stats" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lifelinecoding&theme=dracula" 
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lifelinecoding&theme=2077" 
          alt="Aditya's Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifelinecoding&theme=dracula" 
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifelinecoding&theme=2077" 
          alt="Aditya's GitHub Contribution Graph" />
 </div>
 
