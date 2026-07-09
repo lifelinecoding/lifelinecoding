@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Aditya Patel
-
-Aspiring Full Stack Developer | Passionate about Building Real-World Web Applications
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=👋+Hey+I'm+Aditya+Patel;I+break+things+on+the+web;Aspiring+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## About Me
 
@@ -8,20 +6,32 @@ I am a passionate and dedicated web development learner with a strong focus on *
 
 I believe in **learning by building**, and I constantly work on projects that help me understand concepts deeply rather than just theoretically. 
 
+
+## My Progress
+<div align="center" style="margin-bottom: 30px;">
+<br>
+  <img src="https://streak-stats.demolab.com?user=lifelinecoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
+</div>
+<!-- <br> -->
+
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<br>
 ![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23009688.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
