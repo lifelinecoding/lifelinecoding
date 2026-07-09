@@ -1,7 +1,4 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=👋+Hey+I'm+Aditya+Patel;I+break+things+on+the+web;Aspiring+Full+Stack+Developer)](https://git.io/typing-svg)
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lifelinecoding&rstyle=plastic&left_text=Profile%20Views%20:"  />
-</div>
 
 ## About Me
 
@@ -10,12 +7,15 @@ I am a passionate and dedicated web development learner with a strong focus on *
 I believe in **learning by building**, and I constantly work on projects that help me understand concepts deeply rather than just theoretically. 
 
 
-## My Progress
-<div align="center" style="margin-bottom: 30px;">
+## My Progress 
 <br>
-  <img src="https://streak-stats.demolab.com?user=lifelinecoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lifelinecoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" alt="Commit Streak" style="border-radius: 12px;" />
 </div>
 <!-- <br> -->
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=lifelinecoding&rstyle=plastic&left_text=Profile%20Views%20:" alt="Profile Views" style="margin-right: 10px;" />
+</div>
 
 ## Tech Stack
 
