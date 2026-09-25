@@ -2,10 +2,9 @@
 
 ## About Me
 
-I am a passionate and dedicated web development learner with a strong focus on **Full Stack Development**. I enjoy building clean, responsive, and user-friendly web applications that solve real-world problems.
+I am a passionate Full-Stack MERN Developer focused on building clean, responsive, and real-time web applications that solve practical problems. I strongly believe in learning by building, constantly pushing myself to master concepts through hands-on project execution rather than just theory.
 
-I believe in **learning by building**, and I constantly work on projects that help me understand concepts deeply rather than just theoretically. 
-
+​Currently, I am engineering PopStream—a unified media streaming and real-time messaging platform using React, Node.js, Express, MongoDB, and Socket.io—while simultaneously sharpening my core computer science fundamentals through C programming and Data Structures & Algorithms.
 
 ## My Progress 
 <br>
